@@ -14,16 +14,23 @@
       <h1>Encabezado</h1>
     </header> -->
     <main>
-            <div class="container">
-                <div class="row">
-                    <div class="col-6">
-                        <h1>hola</h1>
-                    </div>
-                    <div class="col-6">
-                        <h1>juan</h1>                       
-                    </div>
+        <div class="caja-1">
+            <div class="caja-2">
+                <div class="caja-3">
+                    <img src="img.jpg" alt="" id="image">
+                </div>
+                <div class="caja-4">
+                    <h2>About Company</h2><br>
+                    <p>Inbox es una aplicativo web el cual puede ayudarte a mejorar el 
+                        rendimiento de tu empresa.
+                    </p><br>
+
+                    <button type="button" class="btn btn-outline-primary">Leer mas..</button>
+
+                    
                 </div>
             </div>
+        </div>
     </main>
 <!-- 
     <footer>
